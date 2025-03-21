@@ -1,0 +1,80 @@
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 1 password hash
+0:00:00:00 Cost 1 (revision) is 3 for all loaded hashes
+0:00:00:00 Command line: john --format=pdf hash.txt --wordlist=pas.txt 
+0:00:00:00 - UTF-8 input encoding enabled
+0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+0:00:00:00 - Hash type: PDF (min-len 0, max-len 10 [worst case UTF-8] to 32 [ASCII])
+0:00:00:00 - Algorithm: MD5 SHA2 RC4/AES 32/64
+0:00:00:00 - Will reject candidates longer than 32 bytes
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 384
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 - Wordlist file: pas.txt
+0:00:00:00 - memory mapping wordlist (6888890 bytes)
+0:00:00:01 - No word mangling rules
+0:00:00:01 - No stacked rules
+0:00:00:03 + Cracked ?
+0:00:00:03 Session completed
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 1 password hash
+0:00:00:00 Cost 1 (revision) is 3 for all loaded hashes
+0:00:00:00 Command line: john --wordlist=pas.txt hash.txt 
+0:00:00:00 - UTF-8 input encoding enabled
+0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+0:00:00:00 - Hash type: PDF (min-len 0, max-len 10 [worst case UTF-8] to 32 [ASCII])
+0:00:00:00 - Algorithm: MD5 SHA2 RC4/AES 32/64
+0:00:00:00 - Will reject candidates longer than 32 bytes
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 384
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 - Wordlist file: pas.txt
+0:00:00:00 - memory mapping wordlist (6888890 bytes)
+0:00:00:00 - No word mangling rules
+0:00:00:00 - No stacked rules
+0:00:00:00 + Cracked /Users/vishn/Downloads/Resume_pro.pdf
+0:00:00:00 Session completed
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 1 password hash
+0:00:00:00 Cost 1 (revision) is 3 for all loaded hashes
+0:00:00:00 Command line: john --mask=?u?u?u?u?d?d?d?d hash.txt 
+0:00:00:00 - UTF-8 input encoding enabled
+0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+0:00:00:00 - Hash type: PDF (min-len 0, max-len 10 [worst case UTF-8] to 32 [ASCII])
+0:00:00:00 - Algorithm: MD5 SHA2 RC4/AES 32/64
+0:00:00:00 - Will reject candidates longer than 32 bytes
+0:00:00:00 Proceeding with mask mode
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 384
+0:00:00:00 - No stacked rules
+0:00:04:13 Session aborted
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 1 password hash
+0:00:00:00 Cost 1 (revision) is 3 for all loaded hashes
+0:00:00:00 Command line: john --wordlist=pas.txt hash.txt 
+0:00:00:00 - UTF-8 input encoding enabled
+0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+0:00:00:00 - Hash type: PDF (min-len 0, max-len 10 [worst case UTF-8] to 32 [ASCII])
+0:00:00:00 - Algorithm: MD5 SHA2 RC4/AES 32/64
+0:00:00:00 - Will reject candidates longer than 32 bytes
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 384
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 - Wordlist file: pas.txt
+0:00:00:00 - memory mapping wordlist (6888890 bytes)
+0:00:00:00 - No word mangling rules
+0:00:00:00 - No stacked rules
+0:00:00:02 Session completed
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 1 password hash
+0:00:00:00 Cost 1 (revision) is 3 for all loaded hashes
+0:00:00:00 Command line: john --wordlist=pas.txt hash.txt 
+0:00:00:00 - UTF-8 input encoding enabled
+0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+0:00:00:00 - Hash type: PDF (min-len 0, max-len 10 [worst case UTF-8] to 32 [ASCII])
+0:00:00:00 - Algorithm: MD5 SHA2 RC4/AES 32/64
+0:00:00:00 - Will reject candidates longer than 32 bytes
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 384
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 - Wordlist file: pas.txt
+0:00:00:00 - memory mapping wordlist (6888890 bytes)
+0:00:00:00 - No word mangling rules
+0:00:00:00 - No stacked rules
+0:00:00:00 + Cracked /Users/vishn/Downloads/Resume_protected.pdf
+0:00:00:00 Session completed
